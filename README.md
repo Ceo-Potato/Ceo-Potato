@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ceo-Potato
-- 👀 I’m interested in programing, music
-- 🌱 I’m currently learning python, and music
-- 💞️ I’m looking to collaborate on idk
+- 👋 Hi, I’m @Ceo-Potato.
+- 👀 I’m interested in programing.
+- 🌱 I’m currently learning Dart & Flutter.
+- 💞️ I’m looking to collaborate on idk.
 - 📫 How to reach me foxy06900@gmail.com
 
 <!---
